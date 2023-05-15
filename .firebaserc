@@ -1,0 +1,25 @@
+{
+  "projects": {
+    "default": "mo9ef-a0575"
+  },
+  "targets": {
+    "mo9ef-a0575": {
+      "hosting": {
+        "client": [
+          "mo9ef-client-site"
+        ],
+        "admin": [
+          "mo9ef-a0575"
+        ]
+      }
+    },
+    "mo9ef-a0575": {
+      "hosting": {
+        "mo9ef-client-site": [
+          "mo9ef-client-site"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
